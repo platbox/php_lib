@@ -1,0 +1,17 @@
+{
+  "name": "platbox/php_lib",
+  "description": "Libraries that implement connection to the PlatBox payment system",
+  "type": "library",
+  "authors": [
+    {
+      "name": "PlatBox",
+      "email": "support-merchant@platbox.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PlatBox\\": "src/PlatBox"
+    }
+  },
+  "require": {}
+}
