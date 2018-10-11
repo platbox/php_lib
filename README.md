@@ -30,7 +30,7 @@ $paramsForTransaction = [
     'amount'      => 1000,
     'currency'    => 'RUB',
     'merchant_id' => 'INSERT YOUR OPEN KEY',
-    'order_id'    => 'Order_1',
+    'order'    => 'Order_1',
     'project'     => 'INSERT YOUR PROJECT',
 ];
 
