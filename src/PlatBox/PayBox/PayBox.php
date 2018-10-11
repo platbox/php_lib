@@ -23,7 +23,7 @@ class PayBox
         'amount',
         'currency',
         'merchant_id',
-        'order_id',
+        'order',
         'project',
         'receipt_data',
         'redirect_url',
