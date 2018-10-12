@@ -19,7 +19,6 @@ class PayBox
         'account_additional',
         'account_id',
         'account_location',
-        'additional',
         'amount',
         'currency',
         'merchant_id',
